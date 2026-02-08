@@ -5,7 +5,8 @@
 
 ## Generated Images: 
 
-** Epoch 0 **
+**Epoch 0:**
+
 ![Epoch 0](epoch_000.png)
 
 **Epoch 10:**  
